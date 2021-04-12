@@ -1,0 +1,21 @@
+{
+    "name": "cliff",
+    "displayName": "Cliff",
+    "description": "A strong color theme as the name suggests",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cliff",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cliff-color-theme.json"
+            }
+        ]
+    }
+}
